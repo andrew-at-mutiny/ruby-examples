@@ -1,5 +1,5 @@
-class Dog 
-	def bark
-		return 'woof'
-	end
+class Dog
+  def bark
+    'woof'
+  end
 end

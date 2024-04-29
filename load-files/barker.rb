@@ -1,6 +1,5 @@
-# Barker
-class Dog 
-	def bark
-		return 'bark'
-	end
+class Dog
+  def bark
+    'bark'
+  end
 end
