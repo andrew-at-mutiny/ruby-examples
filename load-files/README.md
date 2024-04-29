@@ -1,3 +1,5 @@
+Look at `loader.rb` and the other files in this directory. What will the output be if you run `ruby loader.rb`?
+
 ## Explanation
 
 When you load or require a file in ruby, it is evaluated at the highest level possible. This means that if two loaded files define the same class or constant, they will collide.
